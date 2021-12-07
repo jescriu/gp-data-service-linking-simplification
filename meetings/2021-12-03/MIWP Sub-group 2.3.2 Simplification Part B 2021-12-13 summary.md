@@ -20,7 +20,18 @@ It was chaired by JRC and attended by experts from IT, NL, FR and DK.
 
 #### Summary:
 
-XXX
+The JRC welcomed the attendees, provided an overview of the objectives of the meeting and proceed with the items scheduled in the agenda.
+
+Firstly, two items corresponding to [Part A Consolidated proposal (“Data-service linking simplification”)](https://github.com/INSPIRE-MIF/gp-data-service-linking-simplification/blob/main/proposals/JRC/ds-linking-simplification-good-practice.md) were discussed:
+* Possible amendment of Part A Consolidated proposal proposed in [Issue #38](https://github.com/INSPIRE-MIF/gp-data-service-linking-simplification/issues/38), to solve the lack of compliance of the Coupled resource implementation as per the Consolidated proposal:
+As per the proposal in Issue #38 the URL of the Coupled resource should not be poining to the raw metadata, but to the #MD_DataIdentification section of the metadata.
+Ine de Visser expressed her concerns about accepting this solution because...
+
+* Inputs sent by Heidi Vanparys on 2nd December:
+
+Secondly, 
+
+
 
 #### Main points of the discussion (TBD) ####
 

@@ -44,7 +44,13 @@ Particularly, if the present Good Practice finally proposes something not aligne
 
 **Agenda Item 2 - Discussion on the Remapping of Extended Capabilities**
 
-The initial proposal for remapping the elements foreseen in the Extended Capabilities, prepared by Antonio Rotundo and included in [Consolidated proposal – Annex B](https://github.com/INSPIRE-MIF/gp-data-service-linking-simplification/blob/main/proposals/JRC/ds-linking-simplification-good-practice.md#annex-b), was discussed by the working group. The final aim is avoding the necessary provision of the Extended Capabilities in the Capabilities documents of WxS INSPIRE services, scoped to OGC Web Services (OWS).
+An initial proposal for remapping the INSPIRE elements contained in the services metadata (Extended Capabilities), as described in Scenario 2 of the INSPIRE Network Sevices Technical Guidelines (TG NS) was discussed by the group. This draft proposal was prepared by Antonio Rotundo and lately included in [Consolidated proposal – Annex B](https://github.com/INSPIRE-MIF/gp-data-service-linking-simplification/blob/main/proposals/JRC/ds-linking-simplification-good-practice.md#annex-b). 
+
+The objective of this discussion is to achieve a more complete simplification of data-service linking by using Scenario 2 (and thus, not requiring the provision of service matadata as metadata records offered by an external discovery service) while reallocating the service metadata elements foreseen - as per this scenario - in the Extended Capabilities of OGC WxS INSPIRE services into standard elements of their corresponding Capabilties documents. This optional approach would allow avoding their necessary provision in the Extended Capabilities of such service Capabilties documents. 
+
+The group agreed to scope the remapping work to OGC Web Services (OWS).
+
+
 
 
 

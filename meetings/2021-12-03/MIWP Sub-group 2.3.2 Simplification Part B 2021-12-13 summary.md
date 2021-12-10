@@ -42,9 +42,9 @@ Since there was no agreement on a consensus solution to manage the issue, the gr
 Heidi Vanparys already started with the quality-check / review of Part A Consolidated proposal (Good Practice). She expressed her agreement with the previous comment from Antonio, and explained that the consolidated proposal should reuse the requirements already established in the technical guidelines. This could be done by expressing in this Good Practice dependencies to the requirements classesthat already exist in the TG MD.
 Particularly, if the present Good Practice finally proposes something not aligned with TG Requirement 3.6 discussed above, it would be better to submit a change proposal for this requirement through the governance process currently established.
 
-**Secondly, **
+**Agenda Item 2 - Discussion on the Remapping of Extended Capabilities**
 
-
+The initial proposal for remapping the elements foreseen in the Extended Capabilities, prepared by Antonio Rotundo and included in [Consolidated proposal – Annex B](https://github.com/INSPIRE-MIF/gp-data-service-linking-simplification/blob/main/proposals/JRC/ds-linking-simplification-good-practice.md#annex-b), was discussed by the working group. The final aim is avoding the necessary provision of the Extended Capabilities in the Capabilities documents of WxS INSPIRE services, scoped to OGC Web Services (OWS).
 
 
 

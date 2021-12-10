@@ -48,16 +48,18 @@ An initial proposal for remapping the INSPIRE elements contained in the services
 
 The objective of this discussion is to achieve a more complete simplification of data-service linking by using Scenario 2 (and thus, not requiring the provision of service matadata as metadata records offered by an external discovery service) while reallocating the service metadata elements foreseen - as per this scenario - in the Extended Capabilities of OGC WxS INSPIRE services into standard elements of their corresponding Capabilties documents. This optional approach would allow avoding their necessary provision in the Extended Capabilities of such service Capabilties documents. 
 
-The group agreed to scope the remapping work to OGC Web Services (OWS).
+Antonio Rotundo volunteered to further work to consolidate this proposal, clarifying the elements still pending to be remmapped (Temporal reference, Metadata point of contact, Metadata date and Supported languages) and solving any remaining doubts on it.
 
+Alexander Kotsev added that this simplification is something that the SW industry is really expecting. 
 
+(Minute 33)
 
 
 
 #### Decisions:
 
 1. .
-2. 
+2 The group agreed to scope the remapping work just to OGC Web Services (OWS). 
 
 #### Actions:
 

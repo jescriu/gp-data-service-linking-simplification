@@ -36,6 +36,8 @@ Since there was no agreement on a consensus solution to manage the issue, the gr
 
 * Inputs sent by Heidi Vanparys on 2nd December:
 
+Heidi Vanparys already started with the quality-check / review of Part A Consolidated proposal (Good Practice). She expressed her agreement with the previous comment from Antonio, and explained that the consolidated proposal should reuse the requirements already established in the technical guidelines. This could be done by expressing in this Good Practice dependencies to the requirements classesthat already exist in the TG MD.
+
 **Secondly, **
 
 

@@ -54,17 +54,37 @@ Alexander Kotsev added that this simplification is something that the SW industr
 
 Ine de Visser also agreed that it would be good to get rid of the Extended Capabilities, and that it should be checked if some elements were missing from this initial proposal (e.g. service metadata URL).
 
-Ine de Visser and Marie Lambois will collaborate with Antonio in further discussing this initial mapping and drafting a consolidated proposal. 
+Ine de Visser and Marie Lambois agreed to collaborate with Antonio in further discussing this initial mapping and drafting a consolidated proposal. 
+
+Alexander Kotsev foresaw 3 different cases for each of the elements in the Extended Capabilities: 
+1. To discard the element providing an appropiate justification; 
+2. To remap the element to an standard element from the default Capabilities document service response, and; 
+3. To adapt a particular element from the default Capabilities document service response to avoid losing content initially included in the Extended Capabilities.
+
+He proposed to start the discussion going through each of the the elements of the Extended Capabilities one by one, starting from the critical ones - like the conformity and the identifiers - till arriving to a consensus that could be shared with the whole Sub-group 2.3.2 and the MIG-T, and finally validated. 
 
 Heidy Vamparys opened the discussion on specific Extended Capabilities elements:
 
-* Metadata Point of contact:  
+* Metadata Point of contact: She suggested that this element should be probably discarded, because if there is no external ISO 19139 service metadada then the metadata you have are just the information provided in the Capabilities document of the service. Therefore, in this case the point of contact would be the same as the service provider. This should be taken into account when searching for the suitable standard elements from the Capabilities document to be mapped to to the Metadata Point of contact.
+
+Marie Lambois also supported this suggestion, but mentioned that the mapping should be clear in any of the possible scenarios, Scenario 1 and Scenario 2.
+
+* Conformity:
+Marie Lambois highlighted that there was already opened in the GitHub repository the [Issue #12](https://github.com/INSPIRE-MIF/gp-data-service-linking-simplification/issues/12) for discussing on this specific element, where some XML examples were provided.
+
+Antonio Rotundo commented that he proposed to use for the conformity the codelist published in the INSPIRE Registry (values: 'conformant', 'not conformant' and 'not evaluated'), applied to the `wms:keyword` or `wfs:keyword` elements. As a side note, this codelist in fact is not used in ISO 19139 metadata, where the conformity is declared using a boolean value.
+
+Ine de Visser commented that the discussion on [Issue #12](https://github.com/INSPIRE-MIF/gp-data-service-linking-simplification/issues/12) was more focused on how to clearly define the specification respect to which the conformity is being declared.
 
 #### Decisions:
 
-1. .
-2 The group agreed to scope the remapping work just to OGC Web Services (OWS). 
+1. The consolidated proposal for Part B of the Simplification work should be drafted referring, where possible, to requiments and recommmendations already existing in the current Technical Guidelines.
+2. The group agreed to scope the remapping work just to OGC Web Services (OWS). 
+3. Further discussion about the remapping of the Extended Capabilities will take place in the already existing [GitHub repository](https://github.com/INSPIRE-MIF/gp-data-service-linking-simplification/), opening a generic issue thread to be complemented with specific issue threads to discuss on each concrete element of the Extended Capabilities. First outcomes ae expected by mid January.
+4. Heidy Vanparys will provide starting documentation regarding the quality check revision of the Consolidated proposal for for Part A of the simplification work also by mid January. 
 
 #### Actions:
 
 - [ ] The agreement on a consensus solution to manage [Issue #38](https://github.com/INSPIRE-MIF/gp-data-service-linking-simplification/issues/38) should continue in the dedicated GitHub repository.
+- [ ] Antonio Rotundo will lead the opening of Issue threads to further discuss on the remapping of the Extended Capabilities in the [GitHub repository](https://github.com/INSPIRE-MIF/gp-data-service-linking-simplification/). Ine de Visser and Marie Lambois will be collaborating in the discussion.
+- [ ] The status of the discussions and agreements in GitHub will be followed-up to possibly have a new meeting of this group by mid January, in time to gather feedback for the MIG-T Meeting scheduled on 20th January. This meeting would also be used to discuss on possible amendments to the Consolidated proposal for Part A of the simplification work based on the first outcomes from the quality check revision made by Heidi Vanparys.

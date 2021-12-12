@@ -65,16 +65,9 @@ He proposed to start the discussion going through each of the the elements of th
 
 Heidy Vamparys opened the discussion on specific Extended Capabilities elements:
 
-* Metadata Point of contact: She suggested that this element should be probably discarded, because if there is no external ISO 19139 service metadada then the metadata you have are just the information provided in the Capabilities document of the service. Therefore, in this case the point of contact would be the same as the service provider. This should be taken into account when searching for the suitable standard elements from the Capabilities document to be mapped to to the Metadata Point of contact.
+* Metadata Point of contact: She suggested that this element should be probably discarded, because if there is no external ISO 19139 service metadada then the metadata you have are just the information provided in the Capabilities document of the service. Therefore, in this case the point of contact would be the same as the service provider. This should be taken into account when searching for the suitable standard elements from the Capabilities document to be mapped to to the Metadata Point of contact. Marie Lambois also supported this suggestion, but mentioned that the mapping should be clear in any of the possible scenarios, Scenario 1 and Scenario 2.
 
-Marie Lambois also supported this suggestion, but mentioned that the mapping should be clear in any of the possible scenarios, Scenario 1 and Scenario 2.
-
-* Conformity:
-Marie Lambois highlighted that there was already opened in the GitHub repository the [Issue #12](https://github.com/INSPIRE-MIF/gp-data-service-linking-simplification/issues/12) for discussing on this specific element, where some XML examples were provided.
-
-Antonio Rotundo commented that he proposed to use for the conformity the codelist published in the INSPIRE Registry (values: 'conformant', 'not conformant' and 'not evaluated'), applied to the `wms:keyword` or `wfs:keyword` elements. As a side note, this codelist in fact is not used in ISO 19139 metadata, where the conformity is declared using a boolean value.
-
-Ine de Visser commented that the discussion on [Issue #12](https://github.com/INSPIRE-MIF/gp-data-service-linking-simplification/issues/12) was more focused on how to clearly define the specification respect to which the conformity is being declared.
+* Conformity: Marie Lambois highlighted that there was already opened in the GitHub repository the [Issue #12](https://github.com/INSPIRE-MIF/gp-data-service-linking-simplification/issues/12) for discussing on this specific element, where some XML examples were provided. Antonio Rotundo commented that he proposed to use for the conformity the codelist published in the INSPIRE Registry (values: 'conformant', 'not conformant' and 'not evaluated'), applied to the `wms:keyword` or `wfs:keyword` elements. As a side note, this codelist in fact is not used in ISO 19139 metadata, where the conformity is declared using a boolean value. Ine de Visser commented that the discussion on [Issue #12](https://github.com/INSPIRE-MIF/gp-data-service-linking-simplification/issues/12) was more focused on how to clearly define the specification respect to which the conformity is being declared.
 
 #### Decisions:
 

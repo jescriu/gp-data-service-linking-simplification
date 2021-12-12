@@ -58,7 +58,7 @@ Ine de Visser and Marie Lambois will collaborate with Antonio in further discuss
 
 Heidy Vamparys opened the discussion on specific Extended Capabilities elements:
 
-* Metadata Point of contact: 
+* Metadata Point of contact:  
 
 #### Decisions:
 

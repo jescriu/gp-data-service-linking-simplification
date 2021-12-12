@@ -48,13 +48,17 @@ An initial proposal for remapping the INSPIRE elements contained in the services
 
 The objective of this discussion is to achieve a more complete simplification of data-service linking by using Scenario 2 (and thus, not requiring the provision of service matadata as metadata records offered by an external discovery service) while reallocating the service metadata elements foreseen - as per this scenario - in the Extended Capabilities of OGC WxS INSPIRE services into standard elements of their corresponding Capabilties documents. This optional approach would allow avoding their necessary provision in the Extended Capabilities of such service Capabilties documents. 
 
-Antonio Rotundo volunteered to further work to consolidate this proposal, clarifying the elements still pending to be remmapped (Temporal reference, Metadata point of contact, Metadata date and Supported languages) and solving any remaining doubts on it.
+Antonio Rotundo volunteered to further work to consolidate this proposal, clarifying the elements still pending to be remmapped (Temporal reference, Metadata point of contact, Metadata date and Supported languages) and solving any remaining doubts on it. The objective would be that Member States could optionally avoid the Extended Capabilities, or maintain it of they are willing to keep the existing implementations.
 
 Alexander Kotsev added that this simplification is something that the SW industry is really expecting. 
 
-(Minute 33)
+Ine de Visser also agreed that it would be good to get rid of the Extended Capabilities, and that it should be checked if some elements were missing from this initial proposal (e.g. service metadata URL).
 
+Ine de Visser and Marie Lambois will collaborate with Antonio in further discussing this initial mapping and drafting a consolidated proposal. 
 
+Heidy Vamparys opened the discussion on specific Extended Capabilities elements:
+
+* Metadata Point of contact: 
 
 #### Decisions:
 

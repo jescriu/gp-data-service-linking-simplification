@@ -1,6 +1,6 @@
-### MIWP Sub-group on Action 2.3.2 - Kick-of Meeting of Part B "Remapping of the extended capabilities" 
+# MIWP Sub-group on Action 2.3.2 - Kick-of Meeting of Part B "Remapping of the extended capabilities" 
 
-### Simplification of Data and Service Linking - Part B "Remapping of the extended capabilities" 
+# Simplification of Data and Service Linking - Part B "Remapping of the extended capabilities" 
 
 The meeting was held on-line (via WebEx) on 3rd December, 2021, 11:00 - 12:30 CET.
 

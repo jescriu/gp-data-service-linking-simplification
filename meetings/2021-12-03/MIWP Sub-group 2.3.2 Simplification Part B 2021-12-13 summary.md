@@ -10,7 +10,7 @@ It was chaired by JRC and attended by experts from IT, NL, FR and DK.
 
 0. Welcome and Approval of the agenda (JRC)
 1. Possible amendments to [Part A Consolidated proposal (“Data-service linking simplification”)](https://github.com/INSPIRE-MIF/gp-data-service-linking-simplification/blob/main/proposals/JRC/ds-linking-simplification-good-practice.md) (All)
-2. Discussion on the Remapping of Extended Capabilities - [Based on Consolidated proposal – Annex B](https://github.com/INSPIRE-MIF/gp-data-service-linking-simplification/blob/main/proposals/JRC/ds-linking-simplification-good-practice.md#annex-b) (All)
+2. Discussion on the Remapping of Extended Capabilities - [Based on Part A Consolidated proposal – Annex B](https://github.com/INSPIRE-MIF/gp-data-service-linking-simplification/blob/main/proposals/JRC/ds-linking-simplification-good-practice.md#annex-b) (All)
 3. Way forward for Part B (All).
 4. AoB (All).
 
@@ -73,7 +73,7 @@ Discussion on specific Extended Capabilities elements:
 
 1. The consolidated proposal for Part B of the Simplification work should be drafted referring, where possible, to requiments and recommmendations already existing in the current Technical Guidelines.
 2. The group agreed to scope the remapping work just to OGC Web Services (OWS). 
-3. Further discussion about the remapping of the Extended Capabilities will take place in the already existing [GitHub repository](https://github.com/INSPIRE-MIF/gp-data-service-linking-simplification/), opening a generic issue thread to be complemented with specific issue threads to discuss on each concrete element of the Extended Capabilities. First outcomes ae expected by mid January.
+3. Further discussion about the remapping of the Extended Capabilities will take place in the already existing [GitHub repository](https://github.com/INSPIRE-MIF/gp-data-service-linking-simplification/), opening a generic issue thread to be complemented with specific issue threads to discuss on each concrete element of the Extended Capabilities. First outcomes are expected by mid January.
 4. Heidy Vanparys will provide starting documentation regarding the quality check revision of the Consolidated proposal for for Part A of the simplification work also by mid January. 
 
 #### Actions:

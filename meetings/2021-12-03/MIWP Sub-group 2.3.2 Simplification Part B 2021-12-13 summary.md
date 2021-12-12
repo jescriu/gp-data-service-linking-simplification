@@ -79,5 +79,5 @@ Discussion on specific Extended Capabilities elements:
 #### Actions:
 
 - [ ] The agreement on a consensus solution to manage [Issue #38](https://github.com/INSPIRE-MIF/gp-data-service-linking-simplification/issues/38) should continue in the dedicated GitHub repository.
-- [ ] Antonio Rotundo will lead the opening of Issue threads to further discuss on the remapping of the Extended Capabilities in the [GitHub repository](https://github.com/INSPIRE-MIF/gp-data-service-linking-simplification/). Ine de Visser and Marie Lambois will be collaborating in the discussion.
+- [ ] Antonio Rotundo will lead the opening of Issue threads to further discuss on the remapping of the Extended Capabilities in the [GitHub repository](https://github.com/INSPIRE-MIF/gp-data-service-linking-simplification/). Ine de Visser and Marie Lambois will be collaborating in the discussion with the aim to achieve concrete agreements.
 - [ ] The status of the discussions and agreements in GitHub will be followed-up to possibly have a new meeting of this group by mid January, in time to gather feedback for the MIG-T Meeting scheduled on 20th January. This meeting would also be used to discuss on possible amendments to the Consolidated proposal for Part A of the simplification work based on the first outcomes from the quality check revision made by Heidi Vanparys.
